@@ -1,1 +1,1 @@
-# nodejs-mysql-authentication
+# nodeJS user authentication using mysql
